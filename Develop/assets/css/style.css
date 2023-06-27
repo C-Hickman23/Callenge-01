@@ -71,16 +71,6 @@ p {
     color: white;
 }
 
-/* span[data-descr]:active{
-    content: attr(data-descr);
-    color: white;
-}
-
-span[data-descr]{
-    color: transparent;
-    position: relative;
-} */
-
 .float-left {
     float: left;
     margin-right: 25px;
